@@ -1,0 +1,13 @@
+{
+  "name": "WeatherAppSimple",
+  "version": "0.0.2",
+  "description": "Simple interface for the wunderground API.",
+  "keywords": ["wunderground", "forecast", "weather", "conditions"],
+  "author": "Sangeeta ",
+  "repository": { "type": "git", "url": "git@github.com:snarang/WeatherAppSimple.git" },
+  "main": "./index",
+  "engines": { "node": ">= 0.8.0" },
+  "dependencies": {
+    "superagent": "~0.15.4"
+  }
+}
