@@ -14,6 +14,5 @@ $ npm install WeatherAppSimple
 obtain an API key from [here](http://www.wunderground.com/weather/api).
 
 to run 
-npm WeatherAppSimple
 
 node index.js
